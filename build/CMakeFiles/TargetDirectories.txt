@@ -1,0 +1,3 @@
+/Users/zbqi/Documents/network-monitor/build/CMakeFiles/network-monitor.dir
+/Users/zbqi/Documents/network-monitor/build/CMakeFiles/edit_cache.dir
+/Users/zbqi/Documents/network-monitor/build/CMakeFiles/rebuild_cache.dir
