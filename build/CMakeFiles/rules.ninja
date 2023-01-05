@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/local/Cellar/cmake/3.25.1/bin/cmake --regenerate-during-build -S/Users/zbqi/Documents/network-monitor -B/Users/zbqi/Documents/network-monitor/build
+  command = /usr/local/Cellar/cmake/3.25.1/bin/cmake --regenerate-during-build -S/Users/zbqi/documents/network-monitor -B/Users/zbqi/documents/network-monitor/build
   description = Re-running CMake...
   generator = 1
 

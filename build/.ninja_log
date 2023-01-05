@@ -1,3 +1,5 @@
 # ninja log v5
 1	823	1670474979076357986	CMakeFiles/network-monitor.dir/src/main.cpp.o	3c4543b2cb58ca1a
 824	887	1670474979142970592	network-monitor	5fb4c5c5f880cc00
+4	1932	1672903362137012907	CMakeFiles/network-monitor.dir/src/main.cpp.o	65f8abd160011cee
+1936	2052	1672903362267231204	network-monitor	ac3f4506da818257
